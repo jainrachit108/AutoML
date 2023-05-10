@@ -17,7 +17,7 @@ OR
 
 
 ## Features
-###File Upload
+### File Upload
 The app allows you to upload a file in CSV format.
 
 ### Pandas Profiling
